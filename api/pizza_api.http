@@ -1,0 +1,38 @@
+@pizza_api_HostAddress = http://localhost:5131
+
+GET {{pizza_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{pizza_api_HostAddress}}/pizza/
+Accept: application/json
+
+###
+
+GET {{pizza_api_HostAddress}}/pizza/3
+Accept: application/json
+
+###
+
+POST {{pizza_api_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+###
+
+PUT {{pizza_api_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+###
+
+DELETE {{pizza_api_HostAddress}}/pizza/4
