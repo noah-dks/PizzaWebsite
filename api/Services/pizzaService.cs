@@ -9,8 +9,8 @@ public static class PizzaService
     {
         Pizzas =
         [
-            new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
-            new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true }
+            new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false , PizzaImage = "/images/classicItalian.png"},
+            new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true, PizzaImage = "/images/veggiePizza.png" }
         ];
     }
 

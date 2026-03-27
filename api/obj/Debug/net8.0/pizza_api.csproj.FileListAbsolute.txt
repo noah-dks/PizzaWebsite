@@ -33,3 +33,5 @@ C:\SKOLE_2IT\utvikling\dotnet\pizza_project\api\obj\Debug\net8.0\refint\pizza_ap
 C:\SKOLE_2IT\utvikling\dotnet\pizza_project\api\obj\Debug\net8.0\pizza_api.pdb
 C:\SKOLE_2IT\utvikling\dotnet\pizza_project\api\obj\Debug\net8.0\pizza_api.genruntimeconfig.cache
 C:\SKOLE_2IT\utvikling\dotnet\pizza_project\api\obj\Debug\net8.0\ref\pizza_api.dll
+C:\SKOLE_2IT\utvikling\dotnet\pizza_project\api\obj\Debug\net8.0\pizza_api.sourcelink.json
+C:\SKOLE_2IT\utvikling\dotnet\pizza_project\api\bin\Debug\net8.0\pizza_api.staticwebassets.runtime.json
